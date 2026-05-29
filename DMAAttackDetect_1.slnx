@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DMAAttackDetect_1/DMAAttackDetect_1.vcxproj" Id="9536b992-05ba-452c-9b89-7ce938a6a4fe" />
+</Solution>
